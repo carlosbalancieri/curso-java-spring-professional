@@ -14,7 +14,7 @@
 	<name>desafio01</name>
 	<description>Desafio 01</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
